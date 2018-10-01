@@ -1,3 +1,7 @@
+Note: this historical repository is not longer maintained.  Bug fixes and modifications to support GMU usage of DrJava will come from the repot at https://github.com/kauffman77/drjava
+
+Since I can no longer access my previous GMU website, updated JARs will be posted at https://www-users.cs.umn.edu/~kauffman/drjava/
+
 # drjava-gmu
 
 -   compiled with JDK 1.8
